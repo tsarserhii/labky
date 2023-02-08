@@ -12,5 +12,10 @@
 ![image](https://user-images.githubusercontent.com/75271497/217420240-8310aa11-be86-4218-91db-164d3e3dc389.png)
 
 Зробити git init папки із файлом hello.txt та bash скриптом. У папці TestGit я створив два файла: hello.txt та bash.sh. Потім я зробив git init цієї папки.
-![image](https://user-images.githubusercontent.com/75271497/217489569-ceca5605-7681-4aa0-9989-8343d5d65831.png)
+Зробити git commit. Після чого завдяки команді git add . я додав обидва файла в гіт і прописав команду git commit –m “GitTestMy”
 
+Зробити git push у віддалений репозиторій у вітку lab2.
+![image](https://user-images.githubusercontent.com/75271497/217516306-b69d51f8-10f8-478b-9e14-908b1a56c136.png)
+Додати в папку Readme файл із звітом до лабораторної, щоб його можна було передивлятись на репозиторію коли переходиш у вітку
+![image](https://user-images.githubusercontent.com/75271497/217516392-5e5e29ea-131f-4b78-9ecf-97f9ca983c88.png)
+Висновки: на цій лабораторній роботі я навчився працювати з Git, створювати та публікувати репазиторії, а також додавати файли до репазиторій
